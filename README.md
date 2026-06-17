@@ -120,3 +120,8 @@ ShopEZ
 │
 └── README.md
 
+
+
+
+### DB Schema
+<img width="928" alt="Ecommerce_DB" src="https://github.com/user-attachments/assets/c8e92ab8-3088-4f8a-902e-35a5d62f8fa7">
